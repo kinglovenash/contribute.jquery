@@ -1,0 +1,4 @@
+// ES2020 nullish coalescing
+function greet(input) {
+  return input ?? "Hello world";
+}
