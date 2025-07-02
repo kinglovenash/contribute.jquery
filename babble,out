@@ -1,0 +1,3 @@
+function greet(input) {
+  return input != null ? input : "Hello world";
+}
